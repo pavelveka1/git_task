@@ -3,7 +3,7 @@ line2 step7
 line3 step8
 line4 step8
 line5 rrrr
-line6
+line6 wwww
 line7
 line8
 line9
